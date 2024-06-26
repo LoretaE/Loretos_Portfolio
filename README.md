@@ -33,3 +33,4 @@ Models used for data analysis and predictions:
 
 ### Health Index Prediction
 ![](/images/HI_prediction.png)
+
