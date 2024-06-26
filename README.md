@@ -1,4 +1,4 @@
-# Loretos Portfolio
+# Loretos_Portfolio
 ### [Data science portfolio: https://github.com/LoretaE](https://github.com/LoretaE)
 
 ## [Project 3: Predicting Property Prices](https://github.com/LoretaE/RealEstate)
