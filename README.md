@@ -1,4 +1,4 @@
-# Loretos_Portfolio
+# Loretos Portfolio
 ### [Data science portfolio: https://github.com/LoretaE](https://github.com/LoretaE)
 
 ## [Project 3: Predicting Property Prices](https://github.com/LoretaE/RealEstate)
@@ -26,11 +26,24 @@ Technologies used:
 * Numpy
 * Scikit-learn
 * TensorFlow/Keras
-* Matplotlib
 * Plotly dash
 * Seaborn
 
+### Correlation Matrix - Heatmap
+
+![](/images/RE_corr.png)
+
+### Pairplot - relationships in a dataset
+![](/images/RE_pairplot.png)
+
+### Linear Regression and Random Forest. Test vs Predicted price
+![](/images/RE_LR_RF.png)
+
+### Neural Networks. Test vs Predicted price
+![](/images/Neural Networks)
+
 ### Conclusions
+Models evaluated using RMSE, r2 score and cross-validation. 
 The most accurate is the Random Forests model (60%).  Factors limiting the accuracy: (1) the amount of data used to 
 train and test the model (3,400 homes for sale), (2) the price is also influenced by other features that were not used 
 in the development and testing of the model (as only about 1/3 of the homes had such information), (3) the uniqueness 
