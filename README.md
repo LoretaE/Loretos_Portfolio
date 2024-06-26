@@ -40,7 +40,7 @@ Technologies used:
 ![](/images/RE_LR_RF.png)
 
 ### Neural Networks. Test vs Predicted price
-![](/images/Neural Networks)
+![](/images/RE_NN.png)
 
 ### Conclusions
 Models evaluated using RMSE, r2 score and cross-validation. 
