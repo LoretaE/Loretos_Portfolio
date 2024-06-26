@@ -1,7 +1,7 @@
 # Loretos_Portfolio
 ### [Data science portfolio: https://github.com/LoretaE](https://github.com/LoretaE)
 
-## [Project 2: Emotion Prediction](https://github.com/LoretaE/EmotionPrediction)
+## [Project 2: Prediction of Emotions](https://github.com/LoretaE/EmotionPrediction)
 ### Project overview:
 Created the model, which identifies and classifies different emotions in a text, such as joy, anger & fear. Model can be used in the analysis of social media posts, customer reviews or conversations.
 Used dataset "Emotion Dataset" from Kaggle and performed text cleaning, tokenization. Created and trained models, using CNN, RNN or LSTM for emotion recognition. Evaluated model performance using metrics and improved the model. Interactivity has been developed to allow the user to enter text and check how the model recognises emotions.
