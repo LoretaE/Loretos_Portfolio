@@ -12,5 +12,4 @@ Models used for data analysis and predictions:
 * Logistic Regression
 * DBSCAN
 
-![](/images/HI_BCandSC.png)
 ![](/images/HI_prediction.png)
