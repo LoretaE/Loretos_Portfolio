@@ -30,7 +30,6 @@ Technologies used:
 * Seaborn
 
 ### Correlation Matrix - Heatmap
-
 ![](/images/RE_corr.png)
 
 ### Pairplot - relationships in a dataset
