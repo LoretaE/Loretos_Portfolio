@@ -1,5 +1,5 @@
 # Loretos_Portfolio
-### Data science portfolio
+### [Data science portfolio: https://github.com/LoretaE](https://github.com/LoretaE)
 
 ## [Project 1: Analysis of the Health Index in Different Countries and Predicting the Health Index in Lithuania](https://github.com/LoretaE/SveikatosAnalize)
 ### Project overview:
@@ -12,6 +12,5 @@ Models used for data analysis and predictions:
 * Logistic Regression
 * DBSCAN
 
-![](/images/HI_all.png)
 ![](/images/HI_BCandSC.png)
 ![](/images/HI_prediction.png)
