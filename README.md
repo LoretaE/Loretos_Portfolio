@@ -13,10 +13,11 @@ Technologies used:
 * scikit-learn
 * Pandas
 
-Model accuracy trend 
+==Model accuracy trend==
+
 ![](/images/ER_acc_trend.png)
 
-User interactivity
+==User interactivity==
 ![](/images/ER_interactivity.png)
 
 ## [Project 1: Health Index Analysis and Prediction](https://github.com/LoretaE/SveikatosAnalize)
@@ -30,4 +31,5 @@ Models used for data analysis and predictions:
 * Logistic Regression
 * DBSCAN
 
+==Health Index Prediction==
 ![](/images/HI_prediction.png)
