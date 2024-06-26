@@ -6,15 +6,15 @@
 Created the model, which identifies and classifies different emotions in a text, such as joy, anger & fear. Model can be used in the analysis of social media posts, customer reviews or conversations.
 Used dataset "Emotion Dataset" from Kaggle and performed text cleaning, tokenization. Created and trained models, using CNN, RNN or LSTM for emotion recognition. Evaluated model performance using metrics and improved the model. Interactivity has been developed to allow the user to enter text and check how the model recognises emotions.
 
-Technology used:
+Technologies used:
 * Python
 * TensorFlow/Keras
 * NLTK
 * scikit-learn
 * Pandas
 
-![](/images/ER%20acc%20trend.png)
-![](/images/ER%20interactivity.png)
+![](/images/ER_acc_trend.png)
+![](/images/ER_interactivity.png)
 
 ## [Project 1: Health Index Analysis and Prediction](https://github.com/LoretaE/SveikatosAnalize)
 ### Project overview:
