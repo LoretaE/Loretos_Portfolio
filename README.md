@@ -13,6 +13,9 @@ Technology used:
 * scikit-learn
 * Pandas
 
+![](/images/ER%20acc%20trend.png)
+![](/images/ER%20interactivity.png)
+
 ## [Project 1: Health Index Analysis and Prediction](https://github.com/LoretaE/SveikatosAnalize)
 ### Project overview:
 Data preparation for machine learning, selection of machine learning models, model training and evaluation, hyperparameter tuning and model optimisation. 
