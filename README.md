@@ -6,7 +6,7 @@
 ### Project overview:
 The model for predicting the mortgages considering different features is under development.
 
-Data set obtained from https://www.registrucentras.lt/p/1561 with Creative Commons Attribution 4.0 (CC BY 4.0) license. 
+Data set obtained from [Registrų centras](https://www.registrucentras.lt/p/1561) with Creative Commons Attribution 4.0 (CC BY 4.0) license. 
 
 The data will be processed and EDA will be implemented in 2 scopes:
 * 5 largest municipalities (Vilnius, Kaunas, Klaipėda, Šiauliai, Panevėžys);
