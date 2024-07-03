@@ -6,6 +6,14 @@
 ### Project overview:
 The model for predicting the mortgages considering different features is under development.
 
+Data set obtained from https://www.registrucentras.lt/p/1561 with Creative Commons Attribution 4.0 (CC BY 4.0) license. 
+
+The data will be processed and EDA will be implemented in 2 scopes:
+* 5 largest municipalities (Vilnius, Kaunas, Klaipėda, Šiauliai, Panevėžys);
+* 10 Lithuanian districts.
+
+Data cleaning, missing data management, coding of categorical variables, standardisation of numerical data are performed.
+
 ## [Project 3: Predicting Property Prices](https://github.com/LoretaE/RealEstate)
 
 ### Project overview:
