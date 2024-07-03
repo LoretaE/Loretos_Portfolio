@@ -1,6 +1,11 @@
 # Loretos_Portfolio
 ### [Data science portfolio: https://github.com/LoretaE](https://github.com/LoretaE)
 
+## [Project 4: Predicting Mortgages](https://github.com/LoretaE/Mortgages)
+
+### Project overview:
+The model for predicting the mortgages considering different features is under development.
+
 ## [Project 3: Predicting Property Prices](https://github.com/LoretaE/RealEstate)
 
 ### Project overview:
