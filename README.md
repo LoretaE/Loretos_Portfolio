@@ -1,19 +1,25 @@
 # Loretos_Portfolio
-### [Data science portfolio: https://github.com/LoretaE](https://github.com/LoretaE)
 
-## [Project 4: Predicting Mortgages](https://github.com/LoretaE/Mortgages)
+## [Project 4: Mortgages - Prediction and Inference](https://github.com/LoretaE/Mortgages)
 
 ### Project overview:
-The model for predicting the mortgages considering different features is under development.
+The mortgages model is under development.
+
+The mortgages model has 2 goals:
+* Prediction  - focused on predicting the mortgages amounts.
+* Inference - focused on understanding the relationship between the features and mortgages amount.
 
 Data set obtained from [Registrų centras](https://www.registrucentras.lt/p/1561) with Creative Commons Attribution 4.0 
 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.lt)) license. 
 
-The data will be processed and EDA will be implemented in 2 scopes:
+Data cleaning, missing data management, detecting and removing outliers were performed. 
+Coding of categorical variables, standardisation of numerical data were implemented.
+ 
+The data processed and EDA will be implemented in 2 scopes:
 * 5 largest municipalities (Vilnius, Kaunas, Klaipėda, Šiauliai, Panevėžys);
 * 10 Lithuanian districts.
 
-Data cleaning, missing data management, coding of categorical variables, standardisation of numerical data are performed.
+
 
 ## [Project 3: Predicting Property Prices](https://github.com/LoretaE/RealEstate)
 
