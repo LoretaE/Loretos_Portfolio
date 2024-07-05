@@ -1,20 +1,36 @@
 # Loretos_Portfolio
 
-## [Project 4: Customers Age and District Impact on the Mortgage Amount](https://github.com/LoretaE/Mortgages)
+## [Project 4: Customers Age and District Impact on the Mortgage Amount in Lithuania](https://github.com/LoretaE/Mortgages)
 
 ### Project overview:
 
 The main results of the project:
-* Analysed and visualised customer's age group and district impact on the mortgage amount.
+* Analysed and visualised customer's age group and district impact on the maximum amount of mortgage.
 
 Data set obtained from [Registrų centras](https://www.registrucentras.lt/p/1561) with Creative Commons Attribution 4.0 
-([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.lt)) license. 
+([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.lt)) license. Data cleaning, missing data management, 
+detecting and removing outliers were performed. 
 
-Data cleaning, missing data management, detecting and removing outliers were performed before exploratory data analysis 
-(EDA). 
+Technologies used:
+* Python
+* Pandas
+* Seaborn
+* Matplotlib
 
+### Distribution of mortgages by age
+![hi_img.png](images%2Fhi_img.png)
 
+### Distribution of mortgages in different districts
+![hi_img_1.png](images%2Fhi_img_1.png)
 
+### Distribution of mortgages by age in different districts
+![hi_img_2.png](images%2Fhi_img_2.png)
+
+### Conclusions
+1. There is a correlation between client's age and max amount of mortgage, except 3 districts (Vilnius, Marijampolė and 
+Tauragė).
+2. Districts have an impact on the mortgages as well - the largest contractual mortgages were granted in 4 largest 
+districts (Vilnius, Klaipėda, Kaunas and Šiauliai).
 
 ## [Project 3: Predicting Property Prices](https://github.com/LoretaE/RealEstate)
 
