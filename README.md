@@ -22,7 +22,6 @@ Technologies used:
 * Seaborn
 * Matplotlib 
 
-
 ### Stocks' prices trend
 
 ![img.png](Images%2Fimg.png)
