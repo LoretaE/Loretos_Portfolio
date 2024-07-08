@@ -22,19 +22,19 @@ Technologies used:
 * Seaborn
 * Matplotlib 
 
-### Stocks' prices trend
+### Stock prices trend
 ![stock_img.png](images%2Fstock_img.png)
 
-### Stocks' normalised prices (to the basic value - 100)
+### Normalised stock prices 
 ![stock_img_1.png](images%2Fstock_img_1.png)
 
-### Stocks' annual return (yearly change, %)
+### Stocks annual return (yearly change, %)
 ![stock_img_2.png](images%2Fstock_img_2.png)
 
-### Stocks' annual return (yearly change, %) boxplot
+### Stocks annual return (yearly change, %) boxplot
 ![stock_img_3.png](images%2Fstock_img_3.png)
 
-### Stocks' annual return (mean, %)
+### Average of stocks annual return (%)
 ![stock_img_4.png](images%2Fstock_img_4.png)
 
 ## [Project 4: Customers Age and District Impact on the Mortgage Amount in Lithuania](https://github.com/LoretaE/Mortgages)
