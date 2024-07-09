@@ -57,11 +57,11 @@ Annual stock returns are usually in the following ranges:
 ![stock_img_3.png](images%2Fstock_img_3.png)
 
 ### Stock price prediction (MSFT)
-Developed the stock price prediction model accurately predicts the value of Microsoft stocks. 
+Developed the stock price prediction model accurately predicts the value of Microsoft stocks: 
 * Mean absolute percentage error:  0.02
 * Mean absolute error:  9.11
 
-
+![stocks_img_5.png](images%2Fstocks_img_5.png)
 
 ## [Project 4: Customers Age and District Impact on the Mortgage Amount in Lithuania](https://github.com/LoretaE/Mortgages)
 
